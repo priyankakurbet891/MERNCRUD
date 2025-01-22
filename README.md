@@ -1,8 +1,8 @@
-MERN CRUD Project
+##MERN CRUD Project
 Introduction
 This is a simple MERN stack project that implements basic CRUD (Create, Read, Update, Delete) operations. The project consists of a table displaying data and a form to add, edit, and delete entries.
 
-Technologies Used
+##Technologies Used
 MongoDB: Database to store data
 Express.js: Backend framework
 React.js: Frontend library
